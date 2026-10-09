@@ -1,16 +1,24 @@
-## Hi there 👋
+#  Kardelen Savas
+🎯Yazılım geliştirme, web teknolojileri ve veri tabanı yönetimi alanlarında projeler geliştiriyorum.<br>
 
-<!--
-**kardelensvss/kardelensvss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kardelen%20Sava%C5%9F-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kardelen-sava%C5%9F-005872377)
+[![Email](https://img.shields.io/badge/Email-kardelensvss%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kardelensvss@gmail.com)
 
-Here are some ideas to get you started:
+### 💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![](https://skillicons.dev/icons?i=cs,php,dotnet,react,flutter,dart,postgres,mysql,git,postman)
+
+
+</div>
+
+---
+
+### 📌 Öne Çıkan Projeler
+
+| Proje | Açıklama | Teknoloji |
+|---|---|---|
+| 🎓 **[Education Management System ](https://github.com/kardelensvss/Education-Management-System)** | Rol bazlı yetkilendirmeli öğrenci not, devamsızlık ve karne takip sistemi. | PHP, MySQL, CSS, JavaScript |
+
+👉 Tüm projelerimi incelemek için: [GitHub Repositories](https://github.com/kardelensvss?tab=repositories)
